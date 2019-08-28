@@ -22,7 +22,7 @@ def dirsearch(url):
             print ("[%d]\t %s" %(status,scan_url))
     f.close()
 
-dirsearch("http://www.haber18.com/")
+dirsearch("https://izzetemredemir.com/")
 
 
 
